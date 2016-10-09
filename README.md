@@ -12,42 +12,43 @@
   </tr>
   <tr>
     <td class="main" width="890px">
-+ Web Hacking : 
++ Web Hacking :</br></br> 
 
-  - Dork Crawler
-  - Subdomain Checker
-  - Dword to Url
-  - SQL Fuzzer
-  - RFI / LFI tester
-  - Shellshock Auto-exploiter
-  - Login Bruteforce
-  - Port Scanner
-  - XSS Checker
-  - XSS Tracer
-  - Auto SQLi Query Maker
-  - Url Double Encoding or Single Encoding
-
-+ Backdoor Crypter & Connect 
+- Dork Crawler </br>
+  - Subdomain Checker </br>
+  - Dword to Url </br>
+  - SQL Fuzzer </br>
+  - RFI / LFI tester  </br>
+  - Shellshock Auto-exploiter </br>
+  - Login Bruteforce </br>
+  - Port Scanner </br>
+  - XSS Checker  </br>
+  - XSS Tracer  </br>
+  - Auto SQLi Query Maker  </br>
+  - Url Double Encoding or Single Encoding  </br>
+</br>
++ Backdoor Crypter & Connect </br></br>
   
-  - Combine two files (exe files)
-  - Backdoor Connect 
+  - Combine two files (exe files)</br>
+  - Backdoor Connect </br>
+</br>
++ Cryptography & Passwords Attack (md5,sha1,sha256,sha384,sha512)</br></br>
 
-+ Cryptography & Passwords Attack (md5,sha1,sha256,sha384,sha512)
+  - Hash Cracker</br>
+  - Hash Type</br>
+  - Worlists Creator</br>
+  - Decode xored Strings</br>
+  - ShellCode Encoder / Decoder</br>
+  - Cisco Password Decode</br>
+  - One Time Cipher Decode</br>
+  - ROT 13 Decode</br>
+ </br>
++ Forensic </br></br>
 
-  - Hash Cracker
-  - Hash Type
-  - Worlists Creator
-  - Decode xored Strings
-  - ShellCode Encoder / Decoder
-  - Cisco Password Decode
-  - One Time Cipher Decode
-  - ROT 13 Decode
- 
-+ Forensic 
-
-  - Invert Image Color
-  - Extract Image Data
-  - DTMF Tones Detect
+  - Invert Image Color</br>
+  - Extract Image Data</br>
+  - DTMF Tones Detect</br>
+  </br>
 
     </td>
   </tr>
