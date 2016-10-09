@@ -18,7 +18,7 @@ pip install xml
 
 cp -R Crypton/ /opt/
 echo '#!/bin/sh' > /bin/Crypton
-echo 'python2 /opt/Crypton/Crypton.py "$@"' >> /bin/Crypton
+echo 'python /opt/Crypton/Crypton.py "$@"' >> /bin/Crypton
 chmod 755 /bin/Crypton
 chmod +x /bin/Crypton
 rm -rf Crypton/
