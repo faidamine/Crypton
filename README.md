@@ -20,7 +20,7 @@
   - SQL Fuzzer </br>
   - RFI / LFI tester  </br>
   - Shellshock Auto-exploiter </br>
-  - Login Bruteforce </br>
+  - Authentication Bruteforce </br>
   - Port Scanner </br>
   - XSS Checker  </br>
   - XSS Tracer  </br>
